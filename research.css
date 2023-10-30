@@ -177,7 +177,7 @@ button a{
         font-weight: 100;
     }
     .right{
-        width: 100%;
+        width: 80%;
         height: 100px;
         color: white;
         margin-left: 20%;
@@ -198,11 +198,12 @@ button a{
         margin-top: 4%;
         border-radius:5px;
         box-sizing: border-box;
-        padding-left: 70px;
+        padding-left: 10px;
         padding-top: 70px;
     }
     .index{
         height: 300vh;
+        margin-left: 0px;
     }
     .first{
         margin-left: 5%;
